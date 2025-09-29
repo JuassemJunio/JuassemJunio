@@ -1,6 +1,6 @@
 # 👨‍💻 Juassem Junio Do Vale Ayache  
  
-### Full Stack Developer | C# | .NET | PHP | Laravel  
+### Full Stack Developer | PHP | Laravel | C# | .NET
  
 Oi, eu sou o **Juassem**!  
 Sou desenvolvedor full stack apaixonado por criar soluções robustas e escaláveis.  
