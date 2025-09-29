@@ -38,7 +38,3 @@ Atualmente trabalho com **PHP, Laravel, SQL Server, HTML, CSS, Bootstrap, C# e .
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juassem-junio-do-vale-ayache-319713130)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuassemJunio)
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://logicatecnologia.com.br/)
- 
----
- 
-⭐️ A Ele toda a glória 🙌  
