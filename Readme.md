@@ -27,7 +27,7 @@ Atualmente trabalho com **PHP, Laravel, SQL Server, HTML, CSS, Bootstrap, C# e .
  
 ![Juassem's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuassemJunio&show_icons=true&theme=radical)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuassemJunio)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuassemJunio&theme=radical)
  
 </div>
  
